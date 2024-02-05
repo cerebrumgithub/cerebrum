@@ -1,0 +1,244 @@
+.whiteContainer {
+    background-color: #fff !important;
+    
+  }
+  
+ .avp{
+  position: absolute;
+  overflow: hidden;
+  height: 30vh;
+ }
+  .cardVideo{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .content {
+    padding: 5% 10% 5% 10%;
+    text-align: center !important;
+    font-family: "Montserrat", sans-serif;
+    justify-content: space-between;
+    
+  }
+  .content .inline span{
+    padding: 0% 5% 5% 5%;
+  }
+  .content .inline {
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    cursor: pointer;
+    
+  }
+  .spanHover {
+    transition: 0.1s ease-in-out;
+  }
+  .spanHover:hover {
+    transform: scale(1.1);
+    color: rgb(2, 51, 102);
+  }
+  .spanActive {
+    transform: scale(1.1);
+    color: rgb(2, 51, 102);
+  }
+  
+  
+  
+  .fade{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -0%;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(27, 27, 27, 0.794));
+    
+  }
+  .imageContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   }
+  .ImageCard{
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+    position: relative;
+    background-size: cover;
+    margin: 20px;
+    box-shadow: rgb(50 50 93 / 25%) 0px 30px 60px -12px, rgb(0 0 0 / 30%) 0px 18px 36px -18px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    color: rgba(255, 255, 255, 0.544);
+    text-shadow: 2px 2px #000000;
+    transition: 0.2s ease-in-out;
+  }
+  .ImageCardCover{
+    border-radius: 5%;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background-color:rgba(0, 0, 0, 0.443);
+    transition: 0.5s ease-in-out;
+  }
+  .ImageCard h3 {
+    margin-top: 5%;
+  }
+  .ImageCard:hover{
+    font-size: 18px;
+    color: white;
+    transform: scale(1.1);
+  }
+  .ImageCardCover:hover{
+   
+    background-color:rgba(0, 0, 0, 0);
+  }
+  
+  .header{
+    position: relative;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+  }
+  .headerContent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  .headerContent h1{
+    font-size: 7vw;
+  }
+  .headerContent h2{
+    font-size: 30px;
+    font-weight: 300;
+  }
+
+
+ @keyframes resplandor {
+  25% {
+      text-shadow: 5px 5px 5px #212121;
+  }
+  50% {
+    text-shadow: 5px 5px 5px #8E55B2;
+  } 
+  75% {
+    text-shadow: 5px 5px 5px #5BA585;
+  } 
+  100% {
+    text-shadow: 5px 5px 5px #DB8049;
+  } 
+}
+ 
+
+  
+  
+  /* Enable hover only on non-touch devices */
+  @media (hover: hover) and (pointer: fine) {
+   
+  }
+  
+  @media (prefers-reduced-motion) {
+  
+  }
+  
+  /* Mobile */
+  @media only screen and (max-width: 320px) {
+    .content {
+      padding: 5% 2% 5% 2%;
+    }
+    .column2{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .avp{
+      height: 19vh;
+     }
+     .headerContent h1{
+      font-size: 10vw;
+    }
+  }
+  @media only screen and (max-width: 375px) {
+    .content {
+      padding: 5% 2% 5% 2%;
+    }
+    .column2{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .avp{
+      height: 19vh;
+     }
+     .headerContent h1{
+      font-size: 10vw;
+    }
+  }
+  @media only screen and (max-width: 425px) {
+    .content {
+      padding: 5% 2% 5% 2%;
+    }
+    .column1{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .column2{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .avp{
+      height: 19vh;
+     }
+     .headerContent h1{
+      font-size: 10vw;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .content {
+      padding: 5% 2% 5% 2%;
+    }
+    .column1{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .column2{
+        display: block;
+        width: 100%;
+        padding-top: 10%;
+    }
+    .avp{
+      height: 19vh;
+     }
+     .headerContent h1{
+      font-size: 10vw;
+    }
+  }
+  @media (max-width: 700px) {
+    
+  
+  
+   
+  
+  }
+  
+  /* Tablet and Smaller Desktop */
+  @media (min-width: 701px) and (max-width: 1120px) {
+   
+  }
+  
+  @media (prefers-color-scheme: dark) {
+   
+  }
+  
+  @keyframes rotate {
+  
+  }
+  

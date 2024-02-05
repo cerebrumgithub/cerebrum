@@ -1,0 +1,108 @@
+.link {
+    color: #212121;
+  }
+  
+  .link a {
+    all: unset;
+    color: #212121;
+  }
+  
+  .NavLink {
+    font-family: var(--fnt-bold-title);
+  }
+  .dropDownUi{
+    background: transparent;
+  }
+  .inputs {
+    all: unset;
+    padding: 0.5rem;
+    background-color: white;
+    border: 0.1rem solid #212121;
+    border-radius: 3px;
+  }
+  
+  
+  .buttonSendEmail {
+    position: relative;
+    all: unset;
+    color: #212121;
+    padding: 0.4em;
+    border-radius: 0.6em;
+    border-style: solid;
+    border-width: 3px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.12rem;
+    font-family: var(--fnt-title);
+    font-size: 1.2rem;
+    transition: all 400ms ease-in;
+  }
+  
+  .buttonSendEmail:hover {
+    background-color: hsl(47, 100%, 75%);
+    color: white;
+  }
+  
+  .formContact {
+    display: grid;
+    grid-template-columns: auto;
+    column-gap: 1.5rem;
+    row-gap: 0.5em;
+  }
+  
+  .formItemContact {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .formItemContact:nth-of-type(3) {
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    .formItemContact:nth-of-type(4) {
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    .formItemContact:nth-of-type(5) {
+      grid-column-start: 2;
+      grid-column-end: 3;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+  }
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+  }
+  
+  /* Media Query For different screens */
+  @media (min-width: 320px) and (max-width: 599px) {
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+  }
+  @media (min-width: 370px) and (max-width: 800px) {
+    /* portrait tablets, portrait iPad, landscape 800x480 phones (Android) */
+  }
+  @media (min-width: 768px) and (max-width: 800px) {
+  }
+  @media (min-width: 801px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+  }
+  @media (min-width: 1024px) {
+    /* big landscape tablets, laptops, and desktops */
+  }
+  @media (min-width: 1281px) {
+    /* hi-res laptops and desktops */
+  }
+  

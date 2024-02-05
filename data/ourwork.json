@@ -1,0 +1,384 @@
+{
+    "BigEventActivation": [
+        {
+            "id": "BEA1",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_.png')"
+        },
+        {
+            "id": "BEA2",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_2.png')"
+        },
+        {
+            "id": "BEA3",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_3.png')"
+        },
+        {
+            "id": "BEA4",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_4.png')"
+        },
+        {
+            "id": "BEA5",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_5.png')"
+        },
+        {
+            "id": "BEA6",
+            "title": "Big Event Activation",
+            "url": "url('/img/ourWork/Big event Activation/EVENTS ACTIVATIONS_6.png')"
+        }
+    ],
+    "BrandActivation": [
+        {
+            "id": "BA1",
+            "title": "Brand Activation",
+            "url": "url('/img/ourWork/Brand Activation/BRAND ACTIVATIONS_.png')"
+        },
+        {
+            "id": "BA2",
+            "title": "Brand Activation",
+            "url": "url('/img/ourWork/Brand Activation/BRAND ACTIVATIONS_2.png')"
+        },
+        {
+            "id": "BA3",
+            "title": "Brand Activation",
+            "url": "url('/img/ourWork/Brand Activation/BRAND ACTIVATIONS_3.png')"
+        },
+        {
+            "id": "BA4",
+            "title": "Brand Activation",
+            "url": "url('/img/ourWork/Brand Activation/BRAND ACTIVATIONS_4.png')"
+        },
+        {
+            "id": "BA5",
+            "title": "Brand Activation",
+            "url": "url('/img/ourWork/Brand Activation/BRAND ACTIVATIONS_5.png')"
+        }
+        
+        
+    ],
+    "CreativeDesign": [
+        {
+            "id": 1010,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/CREATIVE DESIGN.png')"
+        }, 
+        {
+            "id": 10,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/Booth Design/BOOTH DESIGN_.jpg')"
+        }, 
+        {
+            "id": 11,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/Booth Design/BOOTH DESIGN_2.jpg')"
+        }, 
+        {
+            "id": 12,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/Booth Design/BOOTH DESIGN_3.jpg')"
+        }, 
+        {
+            "id": 13,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/Booth Design/BOOTH DESIGN_4.jpg')"
+        }, 
+        {
+            "id": 14,
+            "title": "Booth Deisgn",
+            "url": "url('/img/ourWork/Creative Design/Booth Design/BOOTH DESIGN_5.jpg')"
+        },
+        {
+            "id": 15,
+            "title": "Collateral Materials",
+            "url": "url('/img/ourWork/Creative Design/Collateral Materials/COLLATERAL MATERIAL_.jpg')"
+        }, 
+        {
+            "id": 16,
+            "title": "Collateral Materials",
+            "url": "url('/img/ourWork/Creative Design/Collateral Materials/COLLATERAL MATERIAL_2.jpg')"
+        }, 
+        {
+            "id": 17,
+            "title": "Collateral Materials",
+            "url": "url('/img/ourWork/Creative Design/Collateral Materials/COLLATERAL MATERIAL_3.jpg')"
+        }, 
+        {
+            "id": 18,
+            "title": "Collateral Materials",
+            "url": "url('/img/ourWork/Creative Design/Collateral Materials/COLLATERAL MATERIAL_4.jpg')"
+        }, 
+        {
+            "id": 19,
+            "title": "Collateral Materials",
+            "url": "url('/img/ourWork/Creative Design/Collateral Materials/COLLATERAL MATERIAL_5.jpg')"
+        },
+        {
+            "id": 20,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_.jpg')"
+        },
+        {
+            "id": 21,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_2.png')"
+        },
+        {
+            "id": 22,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_3.png')"
+        },
+        {
+            "id": 23,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_4.png')"
+        },
+        {
+            "id": 24,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_5.png')"
+        },
+        {
+            "id": 25,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_6.jpg')"
+        },
+        {
+            "id": 26,
+            "title": "Logo Design",
+            "url": "url('/img/ourWork/Creative Design/Logo Design/LOGO DESIGN_7.png')"
+        },
+        {
+            "id": 27,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_.png')"
+        },
+        {
+            "id": 28,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_2.png')"
+        },
+        {
+            "id": 29,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_3.jpg')"
+        },
+        {
+            "id": 30,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_4.jpg')"
+        },
+        {
+            "id": 31,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_5.jpg')"
+        },
+        {
+            "id": 32,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_6.jpg')"
+        },
+        {
+            "id": 33,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_7.jpg')"
+        },
+        {
+            "id": 34,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_8.jpg')"
+        },
+        {
+            "id": 35,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_9.jpg')"
+        },
+        {
+            "id": 36,
+            "title": "Packaging",
+            "url": "url('/img/ourWork/Creative Design/Packaging/PACKAGING_10.jpg')"
+        },
+        {
+            "id": 37,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_1.jpg')"
+        },
+        {
+            "id": 38,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_2.jpg')"
+        },
+        {
+            "id": 39,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_3.jpg')"
+        },
+        {
+            "id": 40,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_4.jpg')"
+        },
+        {
+            "id": 41,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_5.jpg')"
+        },
+        {
+            "id": 42,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_6.jpg')"
+        },
+        {
+            "id": 43,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_7.jpg')"
+        },
+        {
+            "id": 44,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_8.jpg')"
+        },
+        {
+            "id": 45,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_9.jpg')"
+        },
+        {
+            "id": 46,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_10.jpg')"
+        },
+        {
+            "id": 47,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_11.jpg')"
+        },
+        {
+            "id": 48,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_12.jpg')"
+        },
+        {
+            "id": 49,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_13.jpg')"
+        },
+        {
+            "id": 50,
+            "title": "Print Ads",
+            "url": "url('/img/ourWork/Creative Design/Print Ads/PRINT ADS_14.jpg')"
+        }
+        
+        
+    ],
+    "EsportsEvents": [
+        {
+            "id": 515,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/ESPORTS EVENTS.png')" 
+        },
+        {
+            "id": 51,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/CEREBRM CYBER CLASH/CEREBRM CYBER CLASH_.jpg')" 
+        },
+        {
+            "id": 52,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/CEREBRM CYBER CLASH/CEREBRM CYBER CLASH_1.png')" 
+        },
+        {
+            "id": 53,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/CEREBRM CYBER CLASH/CEREBRM CYBER CLASH_2.png')" 
+        },
+        {
+            "id": 54,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/CEREBRM CYBER CLASH/CEREBRM CYBER CLASH_3.jpg')" 
+        },
+        {
+            "id": 55,
+            "title": "Esports Events",
+            "url": "url('/img/ourWork/Esports Events/CEREBRM CYBER CLASH/CEREBRM CYBER CLASH_4.jpg')" 
+        },
+        {
+            "id": 56,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/FEPL-S7_FB-COVER-PHOTO.png')" 
+        },
+        {
+            "id": 57,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture76.jpg')" 
+        },
+        {
+            "id": 58,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture77.png')" 
+        },
+        {
+            "id": 59,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture78.png')" 
+        },
+        {
+            "id": 61,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture79.png')" 
+        },
+        {
+            "id": 62,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture80.png')" 
+        },
+        {
+            "id": 63,
+            "title": "FEPL",
+            "url": "url('/img/ourWork/Esports Events/FEPL/Picture81.png')" 
+        },
+        {
+            "id": 64,
+            "title": "MASSKARA FESTIVAL",
+            "url": "url('/img/ourWork/Esports Events/MASSKARA  FESTIVAL/Picture61.jpg')" 
+        },
+        {
+            "id": 65,
+            "title": "MASSKARA FESTIVAL",
+            "url": "url('/img/ourWork/Esports Events/MASSKARA  FESTIVAL/Picture62.jpg')" 
+        },
+        {
+            "id": 66,
+            "title": "MASSKARA FESTIVAL",
+            "url": "url('/img/ourWork/Esports Events/MASSKARA  FESTIVAL/Picture63.jpg')" 
+        },
+        {
+            "id": 67,
+            "title": "UNIPIN LADIES SERIES",
+            "url": "url('/img/ourWork/Esports Events/UNIPIN LADIES SERIES/Picture69.png')" 
+        },
+        {
+            "id": 68,
+            "title": "UNIPIN LADIES SERIES",
+            "url": "url('/img/ourWork/Esports Events/UNIPIN LADIES SERIES/Picture70.png')" 
+        },
+        {
+            "id": 69,
+            "title": "UNIPIN LADIES SERIES",
+            "url": "url('/img/ourWork/Esports Events/UNIPIN LADIES SERIES/Picture71.png')" 
+        },
+        {
+            "id": 70,
+            "title": "UNIPIN LADIES SERIES",
+            "url": "url('/img/ourWork/Esports Events/UNIPIN LADIES SERIES/Picture72.jpg')" 
+        },
+        {
+            "id": 71,
+            "title": "UNIPIN LADIES SERIES",
+            "url": "url('/img/ourWork/Esports Events/UNIPIN LADIES SERIES/Picture73.jpg')" 
+        }
+    ]
+}

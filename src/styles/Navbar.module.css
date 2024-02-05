@@ -1,0 +1,133 @@
+.header
+{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    background: #FFFFFF;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+    
+}
+.header .logo
+{   
+    
+    font-size: 15px;
+}
+
+.header .navnav ul
+{
+    list-style: none;
+}
+.header .navnav ul li
+{
+    position: relative;
+    float: left;
+}
+.header .navnav ul li .alink
+{
+    font-family: var(--font-family);
+    font-size: 12px;
+    margin: 0px 12px;
+    color: #212121;
+    display: block;
+    border-bottom: 1px solid #FFFFFF;
+}
+.header .navnav ul li .sendLInk
+{
+    font-size: 17px;
+    margin: 5px 15px;
+    color: #212121;
+    display: block;
+    border-bottom: 1px solid #FFFFFF;
+}
+.header .navnav ul li .sendLInk:hover
+{
+    border-bottom: 1px solid rgba(22, 22, 22, 0.64);
+    color: rgba(34, 34, 34, 0.64) !important;
+    transition: color 500ms linear !important;
+    transition: border-bottom 500ms linear !important;
+}
+.header .navnav ul li .alink:hover
+{
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
+    color: rgba(0, 0, 0, 1) !important;
+    transition: color 500ms linear !important;
+    transition: border-bottom 500ms linear !important;
+}
+.header .navnav ul li ul
+{
+    position: absolute;
+    padding: 10px 0px;
+    left: 0;
+    width: 250px;
+    background: #212121;
+    border-radius: 5px;
+    display: none;
+}
+.header .navnav ul li ul li
+{
+    width: 100%;
+    padding: 3px 0px;
+}
+.header .navnav ul li:focus-within > ul,
+.header .navnav ul li:hover > ul
+{
+    display: initial;
+}
+.menuBar{
+    display: none;
+}
+.header label{
+    display: none;
+    color: #f0f0f0 !important;
+}
+@media (max-width:991px)
+{
+    .hidelogo{
+        display: none !important;
+    }
+    .header .navnav ul li ul li
+    {
+        width: 100%;
+        padding: 0px !important;
+    }
+    .header{
+        /* padding: 20px; */
+    }
+    .header label{
+        display: initial;
+    }
+    .header .navnav{
+        position: absolute;
+        top: 100%; left: 0; right: 0;        
+        background: #fff;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        display: none;
+    }
+    .header .navnav ul li
+    {
+        width: 100%;
+    }
+    .header .navnav ul li ul
+    {
+        position: relative;
+        width: 100%;
+    }
+    .header .navnav ul li ul li
+    {
+        background: #212121;
+        margin: 10px 42px;
+    }
+    .header .navnav ul li .alink
+    {
+        font-size: 17px;
+        margin: 10px 22px;
+    }
+    .menuBar:checked ~ .navnav{
+        display: initial;
+        transition: display 500ms ease-in !important;
+    }
+}
